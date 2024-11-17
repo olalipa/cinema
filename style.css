@@ -1,0 +1,104 @@
+.ticket-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 782px;
+    height: 273px;
+    background: #EFC684;
+    border-radius: 10px;
+    display: flex;
+    font-family: Roboto;
+}
+
+.ticket-main {
+    width: 289px;
+}
+
+.ticket-text {
+    width: 206px;
+    height: 128px;
+    font-size: 55px;
+    margin-top: 26px;
+    margin-left: 20px;
+}
+
+.ticket-details {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 63px;
+}
+
+.category {
+    width: 82px;
+    height: 44px;
+    font-size: 20px;
+    margin-top: 36px;
+    margin-left: 27px;
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price {
+    width: 82px;
+    height: 44px;
+    font-size: 20px;
+    margin-top: 36px;
+    margin-left: 35px;
+    margin-bottom: 39px;
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seance-details {
+    margin-right: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.hour {
+    width: 217px;
+    height: 23px;
+    margin-top: 26px;
+    border-bottom : 1px solid black;
+}
+
+.cinema-room-details {
+    display: flex;
+    justify-content: space-between;
+    border-bottom : 1px solid black;
+    width: 217px;
+}
+
+.gate {
+    width: 82px;
+    height: 23px;
+}
+
+.seat {
+    width: 92px;
+    height: 23px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ticket-number {
+    width: 217px;
+    height: 23px;
+    border-bottom : 1px solid black;
+}
+
+.popcorn-cup {
+    margin: 45px;
+    height: 194px;
+    width: 134px;
+}
+
+.popcorn-section {
+    border-left: 2px solid;
+    border-left-style: dashed;
+    border-color: #DB0808;
+}
