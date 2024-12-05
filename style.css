@@ -1,6 +1,4 @@
 .ticket-container {
-    margin-top: 50px;
-    margin-bottom: 50px;
     width: 782px;
     height: 273px;
     background: #EFC684;
@@ -17,7 +15,7 @@
     width: 206px;
     height: 128px;
     font-size: 55px;
-    margin-top: 26px;
+    margin-top: 24px;
     margin-left: 20px;
 }
 
@@ -43,8 +41,8 @@
     height: 44px;
     font-size: 20px;
     margin-top: 36px;
-    margin-left: 35px;
-    margin-bottom: 39px;
+    margin-left: 36px;
+    margin-bottom: 36px;
     border: solid 1px black;
     display: flex;
     justify-content: center;
@@ -52,17 +50,17 @@
 }
 
 .seance-details {
-    margin-right: 52px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     font-size: 20px;
+    width: 270px;
 }
 
 .hour {
     width: 217px;
     height: 23px;
-    margin-top: 26px;
+    margin-top: 24px;
     border-bottom : 1px solid black;
 }
 
@@ -88,11 +86,11 @@
 .ticket-number {
     width: 217px;
     height: 23px;
-    border-bottom : 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .popcorn-cup {
-    margin: 45px;
+    margin: 44px;
     height: 194px;
     width: 134px;
 }
